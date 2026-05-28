@@ -120,4 +120,5 @@ This pattern is used in production across:
 
 **Recep Uzun** — AI Master's Student @ Deggendorf Institute of Technology
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-recep--ulas--uzun-0077b5?logo=linkedin)](https://www.linkedin.com/in/recep-ulas-uzun/)
 [![GitHub](https://img.shields.io/badge/GitHub-salamon30-181717?logo=github)](https://github.com/salamon30)
